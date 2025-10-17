@@ -5,7 +5,7 @@
 This project simulates a **cloud auto-scaling engine** that reads **system metrics (CPU usage)**, analyzes trends, and **automatically scales services up or down** based on thresholds, just like AWS Auto Scaling or Kubernetes HPA, but running locally in Colab.
 
 
----
+-----
 
 ## 🚀 Overview
 
